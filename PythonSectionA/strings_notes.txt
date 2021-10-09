@@ -1,0 +1,43 @@
+Data Collections
+Strings
+- collection of letters, words, para
+- strings are immutable (cannot be modified)
+- represented by "...", '...', '''...''', """..."""
+List
+- Collection of any type of data
+- represented by []
+Tuples
+- Similar to list, but immutable
+- represented by ()
+Dictionary
+- Collection of data in key and value pair
+- represented by {key : value, key : value}
+Set
+- Unordered and unique collection of data
+- represented by {...}
+
+
+Strings
+- Indexing & Slicing
+- Methods
+
+text = "hello world"
+character array
+
+   1  2  3  4  5  6  7  8  9 10  11- positions
+   h  e  l  l  o     w  o  r  l  d
+   0  1  2  3  4  5  6  7  8  9  10  - indexes
+ -11-10 -9 -8 -7 -6 -5 -4 -3 -2 -1    - indexes
+
+text[index]
+text[0]  => h
+text[-1] => d
+
+Substring - Slicing
+text[index/lowerbound : position/upperbound : step=+1]
+
+text[0:4] => hell
+text[5:0:-1] =>  olle
+
+
+
