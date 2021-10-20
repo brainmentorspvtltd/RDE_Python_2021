@@ -1,0 +1,44 @@
+https://github.com/brainmentorspvtltd/RDE_Python_2021
+
+Python
+
+Jobs
+- Web Developer - UI / Node.js / python
+- Software Developer - Java / .net / python
+- Mobile App Developer - Flutter - dart / python
+
+- Tester - python
+
+- Cloud Computing
+- Big Data
+- Data Science
+  - Data Analyst
+  - ML Engineer
+
+- Netwoking & Security
+
+============================================
+
+Python
+
+- General Purpose
+- High Level
+- Easy Syntax
+- Interpreted Language (as well as compiled)
+- Dynamically Typed
+- Multi-Paradigm (Procedural + Object Oriented + Functional)
+
+1024 GB = 1 TB
+1024 TB = 1 PB (Peta Byte)
+1024 PB = 1 EB (Exa Byte)
+1024 EB = 1 ZB (Zetta Byte)
+
+Statically Typed
+ - fixed / constant
+
+Dynamically Typed
+ - run time change
+
+
+
+
